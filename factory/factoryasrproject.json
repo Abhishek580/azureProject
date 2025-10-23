@@ -1,0 +1,9 @@
+{
+	"name": "factoryasrproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f137d288-89f5-471e-8c20-bfbacf7eb834",
+		"tenantId": "6d6e0ec6-a884-420e-9513-b529e4725712"
+	}
+}
