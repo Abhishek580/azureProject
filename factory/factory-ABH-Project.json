@@ -1,0 +1,9 @@
+{
+	"name": "factory-ABH-Project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8a34615-64b4-4245-a4b4-d7557ea5d0d3",
+		"tenantId": "d20029af-552f-4a29-a135-8e83d6d69ac6"
+	}
+}
