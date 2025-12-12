@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "factoryasrproject"
+		},
+		"Azure_Sql_DB_password": {
+			"value": ""
+		},
+		"DataLake_accountKey": {
+			"value": ""
+		},
+		"Azure_Sql_DB_properties_typeProperties_server": {
+			"value": "asrprojectsqlserver.database.windows.net"
+		},
+		"Azure_Sql_DB_properties_typeProperties_database": {
+			"value": "asr_sql_db"
+		},
+		"Azure_Sql_DB_properties_typeProperties_userName": {
+			"value": "adminabhi"
+		},
+		"DataLake_properties_typeProperties_url": {
+			"value": "https://storageasrproject.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
